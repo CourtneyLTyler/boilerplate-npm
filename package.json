@@ -13,5 +13,6 @@
 	},
     "author": "Courtney Tyler",
     "description": "pkg.json file lesson",
-    "keywords": ["freecodecamp", "cert", "challenge"]
+    "keywords": ["freecodecamp", "cert", "challenge"],
+    "license": "MIT"
 }
