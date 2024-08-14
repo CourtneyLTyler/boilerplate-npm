@@ -12,5 +12,6 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
     "author": "Courtney Tyler",
-    "description": "pkg.json file lesson"
+    "description": "pkg.json file lesson",
+    "keywords": ["freecodecamp", "cert", "challenge"]
 }
